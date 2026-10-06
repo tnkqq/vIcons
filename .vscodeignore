@@ -1,0 +1,7 @@
+scripts/**
+examples/**
+*.vsix
+.gitignore
+.vscodeignore
+image.png
+preview-overview.png
