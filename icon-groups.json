@@ -1,0 +1,149 @@
+[
+  {
+    "name": "VIP · знак стека",
+    "symbol": "vip-brand",
+    "extensions": [
+      "vip",
+      "vih",
+      "vpp",
+      "vil",
+      "vill",
+      "prj"
+    ]
+  },
+  {
+    "name": "VIP · объявления",
+    "symbol": "interface",
+    "extensions": [
+      "vin",
+      "obj",
+      "inc"
+    ]
+  },
+  {
+    "name": "VIP · значения",
+    "symbol": "values",
+    "extensions": [
+      "var",
+      "const",
+      "fnc"
+    ]
+  },
+  {
+    "name": "Проекты и сборка",
+    "symbol": "project",
+    "extensions": [
+      "vpr",
+      "ver"
+    ]
+  },
+  {
+    "name": "Словарь и данные",
+    "symbol": "database",
+    "extensions": [
+      "lot",
+      "gcd",
+      "dic",
+      "mem",
+      "tbl",
+      "sql"
+    ]
+  },
+  {
+    "name": "Окна и меню",
+    "symbol": "window",
+    "extensions": [
+      "dlg",
+      "win",
+      "mnu",
+      "mnh",
+      "tb"
+    ]
+  },
+  {
+    "name": "Печатные формы",
+    "symbol": "report",
+    "extensions": [
+      "frm",
+      "pro",
+      "frn",
+      "fr3"
+    ]
+  },
+  {
+    "name": "Сценарии и сервисы",
+    "symbol": "terminal",
+    "extensions": [
+      "cmd",
+      "bat",
+      "sh",
+      "service"
+    ]
+  },
+  {
+    "name": "Python и зависимости",
+    "symbol": "package",
+    "extensions": [
+      "py",
+      "whl"
+    ]
+  },
+  {
+    "name": "Веб-интерфейс",
+    "symbol": "web",
+    "extensions": [
+      "html",
+      "css"
+    ]
+  },
+  {
+    "name": "Конфигурация",
+    "symbol": "config",
+    "extensions": [
+      "json",
+      "yml",
+      "xml",
+      "iml"
+    ]
+  },
+  {
+    "name": "Документы и списки",
+    "symbol": "document",
+    "extensions": [
+      "txt",
+      "docx",
+      "rtf",
+      "lst"
+    ]
+  },
+  {
+    "name": "Табличные отчеты",
+    "symbol": "sheet",
+    "extensions": [
+      "slk",
+      "ods",
+      "ots",
+      "xlsx",
+      "xlsm",
+      "xltx",
+      "xltm"
+    ]
+  },
+  {
+    "name": "Графические ресурсы",
+    "symbol": "image",
+    "extensions": [
+      "bmc",
+      "bmp",
+      "ico",
+      "jpg"
+    ]
+  },
+  {
+    "name": "Архив исходников",
+    "symbol": "archive",
+    "extensions": [
+      "old"
+    ]
+  }
+]

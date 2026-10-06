@@ -1,0 +1,38 @@
+{
+  "name": "vIcons",
+  "displayName": "vIcons",
+  "description": "File icons for the VIP / Galaktika stack and companion project files.",
+  "version": "0.2.3",
+  "publisher": "tnkqq",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "iconThemes": [
+      {
+        "id": "vip-file-icons",
+        "label": "vIcons — Violet Orbit",
+        "path": "./themes/vip-icon-theme.json"
+      },
+      {
+        "id": "vip-file-icons-blue",
+        "label": "vIcons — Blue Orbit",
+        "path": "./themes/vip-blue-icon-theme.json"
+      },
+      {
+        "id": "vip-file-icons-amber",
+        "label": "vIcons — Amber Orbit",
+        "path": "./themes/vip-amber-icon-theme.json"
+      },
+      {
+        "id": "vip-file-icons-mono",
+        "label": "vIcons — Monochrome Orbit",
+        "path": "./themes/vip-mono-icon-theme.json"
+      }
+    ]
+  },
+  "icon": "icon.png"
+}

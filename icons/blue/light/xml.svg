@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><defs>
+<linearGradient id="body" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#18734D"/><stop offset="1" stop-color="#18734D"/></linearGradient>
+<linearGradient id="orbit" gradientUnits="userSpaceOnUse" x1="1" y1="9" x2="23" y2="16"><stop stop-color="#73A7B7"/><stop offset="1" stop-color="#2F85A8"/></linearGradient>
+</defs><g fill="none" stroke="url(#body)" stroke-width="3.5" opacity=".16" stroke-linecap="round" stroke-linejoin="round"><path d="m7 5-5 7 5 7m10-14 5 7-5 7m-3-16-4 18"/></g><g fill="none" stroke="url(#body)" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round"><path d="m7 5-5 7 5 7m10-14 5 7-5 7m-3-16-4 18"/></g></svg>
