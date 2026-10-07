@@ -1,5 +1,7 @@
 # vIcons
 
+https://github.com/tnkqq/vIcons/tree/main
+
 Иконки файлов для **VS Code** — стек **VIP** и сопутствующие форматы.
 
 Четыре палитры: **Violet**, **Blue**, **Amber** и **Monochrome**, каждая со светлым и тёмным вариантом.
